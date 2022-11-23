@@ -1,8 +1,8 @@
 # Asp.NetCoreRestApi
 
 <p>
-A API foi desenvolvida em <b>.Net6</b> utilizando o padrão <b>Rest</b> e banco de dados <b>MySQL</b>. A solução conta com um projeto denominado FilmesAPI onde encontra a lógica de cadastro, gerenciamento e relacionamento de classes como: Filme, Cinema, Sessão, Gerente e Endereço; e outro projeto contendo a lógica de usuário: cadastro, login, autorização e token. 
-Configurações necessárias para ativação de conta usuário: utilizado o servidor de email do Google e configurado opção de "APPS Menos Seguros" para o envio de token.
+A API foi desenvolvida em <b>.Net6</b> utilizando o padrão <b>Rest</b> e banco de dados <b>MySQL</b>. A solução conta com um projeto denominado FilmesAPI onde encontra a lógica de cadastro, gerenciamento e relacionamento de classes como: Filme, Cinema, Sessão, Gerente e Endereço; e outro projeto contendo a lógica de usuário: cadastro, login, autorização e token.<br><br>
+Configurações necessárias para ativação de conta usuário: utilizado o servidor de email do Google e configurado opção de "APPS Menos Seguros" para o envio de token
 </p>
 Entre alguns pacotes NuGets utilizados estão:
 <p>
